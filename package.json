@@ -1,0 +1,19 @@
+{
+  "name": "goyang",
+  "version": "1.0.0",
+  "description": "Real-time communication protocol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lemon-mint/goyang.git"
+  },
+  "author": "lemon-mint",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lemon-mint/goyang/issues"
+  },
+  "homepage": "https://github.com/lemon-mint/goyang#readme"
+}
